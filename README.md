@@ -1,38 +1,38 @@
-## Example Usage
+<h1 align="center" id="title">Text-Encryption</h1>
 
-The code includes example usage for AES, DES, and RSA encryption and decryption:
+<p align="center"><img src="https://socialify.git.ci/D-Majumder/Text-Encryption/image?description=1&amp;forks=1&amp;issues=1&amp;language=1&amp;name=1&amp;owner=1&amp;pulls=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
 
-### 1. **Generate RSA keys**  
-   The RSA key generation function allows you to create public and private keys for asymmetric encryption.
+<p id="description">This Python project demonstrates how to encrypt and decrypt text using three encryption algorithms: AES (Advanced Encryption Standard) DES (Data Encryption Standard) and RSA (Rivest-Shamir-Adleman). The code provides examples for using these algorithms in various scenarios to ensure secure communication and data protection. This project serves as an educational tool to understand the implementation and usage of different encryption algorithms in Python. It showcases the fundamental principles of cryptography and provides a practical approach to secure communication.</p>
 
-### 2. **Encrypt AES and DES keys using RSA public key**  
-   RSA public keys can be used to securely encrypt AES and DES keys for transmission.
+<p align="center"><img src="https://img.shields.io/badge/rsa-blue" alt="shields"><img src="https://img.shields.io/badge/aes-red" alt="shields"><img src="https://img.shields.io/badge/des-violet" alt="shields"></p>
 
-### 3. **Decrypt AES and DES keys using RSA private key**  
-   Use the RSA private key to decrypt AES and DES keys.
+<h2>🚀 Demo</h2>
 
-### 4. **Encrypt and decrypt a message using AES and DES**  
-   Demonstrates how to use AES and DES for encrypting and decrypting messages with appropriate key padding.
+[https://www.linkedin.com/posts/iamdhrubamajumder\_python-internship-techinnovation-activity-7291056415249453056-TDhk?utm\_source=share&utm\_medium=member\_desktop](https://www.linkedin.com/posts/iamdhrubamajumder_python-internship-techinnovation-activity-7291056415249453056-TDhk?utm_source=share&utm_medium=member_desktop)
 
-## Dependencies
+  
+  
+<h2>🧐 Features</h2>
 
-- Python 3.x
-- [pycryptodome](https://www.pycryptodome.org/) library
+Here're some of the project's best features:
 
-Install the dependencies using:
+*   Generate RSA Keys
+*   Encrypt AES and DES Keys Using RSA Public Key
+*   Decrypt AES and DES Keys Using RSA Private Key
+*   Encrypt and Decrypt a Message Using AES and DES
 
-```bash
+<h2>🛠️ Installation Steps:</h2>
+
+<p>1. Install Pycryptodome</p>
+
+```
 pip install pycryptodome
 ```
 
-## License
+<h2>🛡️ License:</h2>
 
-This project is licensed under the **General Use License**.
+This project is licensed under the GNU
 
-## Contributing
+<h2>💖Like my work?</h2>
 
-This project is developed and maintained by myself. Contributions are welcome in the form of suggestions, improvements, and bug reports. 
-
-Feel free to open an issue or pull request if you have any suggestions or fixes!
-
-```
+You can contact me for feedback or suggestions
