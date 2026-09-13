@@ -16,8 +16,8 @@ This project demonstrates how to encrypt and decrypt text using three encryption
 ## Setup
 
 ```bash
-git clone https://github.com/D-Majumder/Text-Encryption.git
-cd Text-Encryption
+git clone https://github.com/D-Majumder/text-encryption.git
+cd text-encryption
 pip install pycryptodome
 python "Text Encryption.py"
 ```
